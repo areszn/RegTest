@@ -1,0 +1,8 @@
+E:\Projects\RegTest\RegTest\RegTest\bin\Release\RegTest.exe
+E:\Projects\RegTest\RegTest\RegTest\bin\Release\RegTest.pdb
+E:\Projects\RegTest\RegTest\RegTest\obj\Release\RegTest.Properties.Resources.resources
+E:\Projects\RegTest\RegTest\RegTest\obj\Release\RegTest.RegTest.resources
+E:\Projects\RegTest\RegTest\RegTest\obj\Release\RegTest.csproj.GenerateResource.Cache
+E:\Projects\RegTest\RegTest\RegTest\obj\Release\RegTest.exe
+E:\Projects\RegTest\RegTest\RegTest\obj\Release\RegTest.pdb
+E:\Projects\RegTest\RegTest\RegTest\obj\Release\RegTest.csprojResolveAssemblyReference.cache
